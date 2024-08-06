@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **concepts in React**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **My code never has bugs. It just develops random features.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
