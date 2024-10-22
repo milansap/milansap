@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan Sapkota</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <h5 align="left"><a href="https://www.sapkotamilan.com.np/">Visit My Website</a></h5>
-<img align="right" alt="coding" src="https://dribbble.com/shots/1768570-Building-a-website-illustration?utm_source=Clipboard_Shot&utm_campaign=jmanalus&utm_content=Building%20a%20website%20illustration&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=jmanalus&utm_content=Building%20a%20website%20illustration&utm_medium=Social_Share"
+<img align="right" alt="coding" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk1OTM5OTIsIm5iZiI6MTcyOTU5MzY5MiwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIyVDEwNDEzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkYTVlODUyMzRlNTQyMTVjOWQ1MGRhMTkxZmI1OTQyODhkMTk3MTkzZmRhMjI1ZGE5OTI1YmM5YWNlZmZiNTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RRVyBDh0s90HyAX_XP2EqFczg03UhdkQNN9_X_qX8Og"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milansap&label=Profile%20views&color=0e75b6&style=flat" alt="milansap" /> </p>
 
