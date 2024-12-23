@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan Sapkota</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <h5 align="left"><a href="https://www.sapkotamilan.com.np/">Visit My Website</a></h5>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/jBOOXxSJfG8kqMxT11" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/jBOOXxSJfG8kqMxT11" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/></div><p><a href="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milansap&label=Profile%20views&color=0e75b6&style=flat" alt="milansap" /> </p>
 
 - 🔭 I’m currently working on **ReactJs as a frontend developer**
