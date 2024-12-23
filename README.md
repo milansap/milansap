@@ -2,15 +2,15 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <h5 align="left"><a href="https://www.sapkotamilan.com.np/">Visit My Website</a></h5>
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-    <iframe
-        src="https://giphy.com/embed/jBOOXxSJfG8kqMxT11"
-        width="100%"
-        height="100%"
-        style="position:absolute"
-        frameborder="0"
-        class="giphy-embed"
-        allowfullscreen>
-    </iframe>
+  <img 
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHEyeDQ3YWt2OGU2bGt6Z2t4Y3F1Y3J6bWhycjA0bjI2bjJ6M2JmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" 
+    width="100%" 
+    height="100%" 
+    style="position:absolute" 
+    frameBorder="0" 
+    class="giphy-embed" 
+    allowFullScreen
+  />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milansap&label=Profile%20views&color=0e75b6&style=flat" alt="milansap" /> </p>
 
