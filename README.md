@@ -14,9 +14,9 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milansap&label=Profile%20views&color=0e75b6&style=flat" alt="milansap" /> </p>
 
-- 🔭 I’m currently working on **ReactJs as a frontend developer**
+- 🔭 I’m currently working on **ReactJs and NextJs as a frontend developer**
 
-- 🌱 I’m currently learning **NextJs ,django and more**
+- 🌱 I’m currently learning **NodeJs ,django and more**
 
 - 👯 I’m looking to collaborate on **open source projects related to web development**
 
